@@ -11,7 +11,7 @@ Lnein Miño - CEO
 
 ## Licencia del Proyecto
 
-<img src="https://1.bp.blogspot.com/-IFwRwYUMdac/UqowjZzPPFI/AAAAAAAAAz0/fY_g6KdIhQ8/s400/foto%2Binicio%2Bcopy.png" height="600px" >
+<div align="center"><img src="https://1.bp.blogspot.com/-IFwRwYUMdac/UqowjZzPPFI/AAAAAAAAAz0/fY_g6KdIhQ8/s400/foto%2Binicio%2Bcopy.png" height="200px" ></div>
 
 GNU LESSER GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
@@ -36,8 +36,8 @@ Esta versión de la Licencia Pública General Menor de GNU incorpora los términ
 ## Descripción general del proyecto
 El proyecto va ayudar a las empresas a llevar un control de efectividad de su personal en los procesos, asimismo permitira monitorear como se lleva a cabo la estrategia optada por la empresa en tiempo real. 
 
-<img src="https://www.lifeder.com/wp-content/uploads/2018/05/Indicadores-de-producci%C3%B3n1.jpg" height="300px" >
-
+<div align="center"><img src="https://www.lifeder.com/wp-content/uploads/2018/05/Indicadores-de-producci%C3%B3n1.jpg" height="200px"></div>
+  
 ## Tipos de roles del proyecto
 La comunidad del proyecto va tener Miembros, Colaboradas, desarrolladores y Líderes. Donde: 
 

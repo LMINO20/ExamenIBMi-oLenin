@@ -34,6 +34,7 @@ Esta versión de la Licencia Pública General Menor de GNU incorpora los términ
 - Prioridad Baja
 
 ## Descripción general del proyecto
+
 El proyecto va ayudar a las empresas a llevar un control de efectividad de su personal en los procesos, asimismo permitira monitorear como se lleva a cabo la estrategia optada por la empresa en tiempo real. 
 
 <div align="center"><img src="https://www.lifeder.com/wp-content/uploads/2018/05/Indicadores-de-producci%C3%B3n1.jpg" height="100px"></div>
@@ -85,6 +86,7 @@ Con los integrantes de los equipos serán:
 -	40 colaborados.
 
 ## Tipo de gestión del proyecto
+
 Tipo: Democratico
 Donde los líderes van a tener la obligación de escuchar a todos los integrantes de su equipo para receptar las recomendaciones del desarrollo del proyecto. Después de esto los líderes tienen de igual forma la obligación de comparten cierta información con los demás líderes de cada equipo. 
 Con esto existe más probabilidad de mitigar próximos problemas y una solución más pronta de los mismos. También las sugerencias permiten mejorar el desarrollo del proyecto a una mayor velocidad donde todos participen y se sientan importantes en el equipo.

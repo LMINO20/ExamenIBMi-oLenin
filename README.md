@@ -11,7 +11,7 @@ Lnein Miño - CEO
 
 ## Licencia del Proyecto
 
-<div align="center"><img src="https://1.bp.blogspot.com/-IFwRwYUMdac/UqowjZzPPFI/AAAAAAAAAz0/fY_g6KdIhQ8/s400/foto%2Binicio%2Bcopy.png" height="200px" ></div>
+<div align="center"><img src="https://1.bp.blogspot.com/-IFwRwYUMdac/UqowjZzPPFI/AAAAAAAAAz0/fY_g6KdIhQ8/s400/foto%2Binicio%2Bcopy.png" height="100px" ></div>
 
 GNU LESSER GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
@@ -36,7 +36,7 @@ Esta versión de la Licencia Pública General Menor de GNU incorpora los términ
 ## Descripción general del proyecto
 El proyecto va ayudar a las empresas a llevar un control de efectividad de su personal en los procesos, asimismo permitira monitorear como se lleva a cabo la estrategia optada por la empresa en tiempo real. 
 
-<div align="center"><img src="https://www.lifeder.com/wp-content/uploads/2018/05/Indicadores-de-producci%C3%B3n1.jpg" height="200px"></div>
+<div align="center"><img src="https://www.lifeder.com/wp-content/uploads/2018/05/Indicadores-de-producci%C3%B3n1.jpg" height="100px"></div>
   
 ## Tipos de roles del proyecto
 La comunidad del proyecto va tener Miembros, Colaboradas, desarrolladores y Líderes. Donde: 
@@ -81,6 +81,7 @@ Con los integrantes de los equipos serán:
 -	20 desarrolladores.
 -	40 colaborados.
 
+<div align="center"><img src="https://2.bp.blogspot.com/-ddep97bgfj0/UPg3p16NgmI/AAAAAAAAHgI/cvr-vczq0TQ/s1600/roles.png" height="100px"></div>
 
 ## Tipo de gestión del proyecto
 Tipo: Democratico

@@ -39,6 +39,9 @@ El proyecto va ayudar a las empresas a llevar un control de efectividad de su pe
 <div align="center"><img src="https://www.lifeder.com/wp-content/uploads/2018/05/Indicadores-de-producci%C3%B3n1.jpg" height="100px"></div>
   
 ## Tipos de roles del proyecto
+
+<div align="center"><img src="https://2.bp.blogspot.com/-ddep97bgfj0/UPg3p16NgmI/AAAAAAAAHgI/cvr-vczq0TQ/s1600/roles.png" height="100px"></div>
+
 La comunidad del proyecto va tener Miembros, Colaboradas, desarrolladores y Líderes. Donde: 
 
 - El número de miembros no va tener límites del número de personas.
@@ -80,8 +83,6 @@ Con los integrantes de los equipos serán:
 -	5 líderes.
 -	20 desarrolladores.
 -	40 colaborados.
-
-<div align="center"><img src="https://2.bp.blogspot.com/-ddep97bgfj0/UPg3p16NgmI/AAAAAAAAHgI/cvr-vczq0TQ/s1600/roles.png" height="100px"></div>
 
 ## Tipo de gestión del proyecto
 Tipo: Democratico

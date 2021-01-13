@@ -103,7 +103,7 @@ La revisión del formato del código debe cumplir con los siguientes puntos:
 
 
 La licencia que deben ocupar para la creación de código debe ser GNU GPL 3.0, caso contrario no se aceptara la fusión con el código del proyecto.
-La comunicación del proyecto se va realizar mediante la aplicación de Discord, por medio del servidor de EAS-Software Libre.
+La comunicación del proyecto se va realizar mediante la aplicación de Discord [Servidor](https://discord.gg/zGQPyYNA)
 Ahí se encontrar los mismos roles especificados anteriormente, y los términos y condiciones que fueron enviados al correo electrónico.
 Este medio de comunicación solo es para tratar todos los temas relacionados del proyecto, si una persona comparte temas diferentes será baneada 1 día por primera vez, 1 semana por segunda vez, 1 mes por tercera vez y sacado del servidor por una cuarta vez.
 La solución de los problemas presentados (Bug) en el proyecto se puede realizar en el repositorio de GitHub. Donde se puede recomendar o dar solución al problema.

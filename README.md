@@ -43,6 +43,8 @@ La comunidad del proyecto va tener Miembros, Colaboradas, desarrolladores y Líd
 - El número de Líderes va tener un límite de 25 personas.
 
 Después de esto, las personas recibirán un correo electrónico de los requisitos que se deben cumplir para suscribirse a la lista deseada. Las cuales son:
+
+
 Para ser parte del equipos de los líderes, se debe enviar una solicitud a los siguientes correos electrónicos: lenin.mino@epn.edu.ec y William.suntaxi@epn.edu.ec. Además, cumplir con los siguientes requisitos:
 - Ser un integrante activo por 6 meses.
 - Haber realizado 100 Commits en el repositorio del proyecto.
@@ -90,6 +92,8 @@ La revisión del formato del código debe cumplir con los siguientes puntos:
 -	Todo el código debe estar identado.
 -	Las variables utilizadas deben ser claras.
 -	El manejo de espacios debe ser el correcto.
+
+
 La licencia que deben ocupar para la creación de código debe ser GNU GPL 3.0, caso contrario no se aceptara la fusión con el código del proyecto.
 La comunicación del proyecto se va realizar mediante la aplicación de Discord, por medio del servidor de EAS-Software Libre.
 Ahí se encontrar los mismos roles especificados anteriormente, y los términos y condiciones que fueron enviados al correo electrónico.

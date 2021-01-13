@@ -35,6 +35,10 @@ Esta versión de la Licencia Pública General Menor de GNU incorpora los términ
 ## Descripción general del proyecto
 El proyecto va ayudar a las empresas a llevar un control de efectividad de su personal en los procesos, asimismo permitira monitorear como se lleva a cabo la estrategia optada por la empresa en tiempo real. 
 
+<img src="https://blogs.iadb.org/gestion-fiscal/wp-content/uploads/sites/6/2017/06/iStock-623438278-2.jpg" height="300px" >
+
+<img src="https://www.lifeder.com/wp-content/uploads/2018/05/Indicadores-de-producci%C3%B3n1.jpg" height="300px" >
+
 ## Tipos de roles del proyecto
 La comunidad del proyecto va tener Miembros, Colaboradas, desarrolladores y Líderes. Donde: 
 
